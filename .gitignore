@@ -1,0 +1,19 @@
+# Frontend
+frontend/node_modules
+frontend/dist
+frontend/.env
+
+# Backend
+backend/venv
+backend/__pycache__
+backend/*/__pycache__
+backend/*/*/__pycache__
+backend/*.sqlite3
+backend/.env
+
+# General
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
